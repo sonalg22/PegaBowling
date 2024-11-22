@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs3500.project.BowlingGameTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-11-22T20:38:31" hostname="Sonals-MBP.lan" time="0.021">
+  <properties/>
+  <testcase name="testGetRolls()" classname="cs3500.project.BowlingGameTest" time="0.01"/>
+  <testcase name="testScore_spares()" classname="cs3500.project.BowlingGameTest" time="0.001"/>
+  <testcase name="testScore_allGutters()" classname="cs3500.project.BowlingGameTest" time="0.001"/>
+  <testcase name="testScore_perfectGame()" classname="cs3500.project.BowlingGameTest" time="0.0"/>
+  <testcase name="testScore_singleStrike()" classname="cs3500.project.BowlingGameTest" time="0.0"/>
+  <testcase name="testScore_singleSpare()" classname="cs3500.project.BowlingGameTest" time="0.0"/>
+  <testcase name="testScore_mixedStrikesSpareNormal()" classname="cs3500.project.BowlingGameTest" time="0.001"/>
+  <testcase name="testScore_edgeCase_after10Frames()" classname="cs3500.project.BowlingGameTest" time="0.001"/>
+  <testcase name="testScore_noRolls()" classname="cs3500.project.BowlingGameTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
